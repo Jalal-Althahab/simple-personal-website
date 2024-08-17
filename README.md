@@ -11,7 +11,7 @@ This project is a straightforward personal website built using HTML, CSS, and Ja
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/simple-personal-website.git
+   git clone https://github.com/Jalal-Althahab/simple-personal-website.git
 2. Navigate to the project directory:
    cd simple-personal-website
 3. Open index.html in your preferred web browser.
